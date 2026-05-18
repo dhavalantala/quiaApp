@@ -57,10 +57,6 @@ cd quiaApp
 python -m http.server 8000
 # Then visit http://localhost:8000
 
-# Option 3 — Node.js
-npx serve .
-```
-
 > ⚠️ Opening `index.html` directly via `file://` will fail because `fetch()` is blocked by CORS in that context. Always use a local server.
 
 ---
@@ -82,7 +78,7 @@ Each question in the array follows this structure:
 | Field | Type | Description |
 |---|---|---|
 | `question` | `string` | The question text displayed to the player |
-| `choices` | `string[]` | Array of exactly 4 answer options |
+| `choices` | `string[]` | Array of exactly 10 answer options |
 | `answer` | `string` | Must match one of the choices exactly (case-sensitive) |
 
 ---
