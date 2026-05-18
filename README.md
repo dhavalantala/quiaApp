@@ -10,7 +10,7 @@ A dynamic, browser-based quiz application built with vanilla HTML, CSS, and Java
 
 | Start Screen | Quiz in Progress | Score Screen |
 |---|---|---|
-| Start button centered on a deep-space gradient | Question + 4 animated choices + pulsing timer | Final score with Play Again option |
+| Start button centered on a deep-space gradient | Question + 10 (You can change) animated choices + pulsing timer | Final score with Play Again option |
 
 ---
 
