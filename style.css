@@ -140,7 +140,7 @@ body::before {
 .choice:nth-child(4) { animation-delay: 0.21s; }
 
 .btn {
-    width: 100%;
+    width: 30%;
     font-size: 16px;
     font-weight: 600;
     padding: 14px 20px;
@@ -198,7 +198,7 @@ body::before {
 
 .startBtn {
     padding: 16px 40px;
-    font-size: 16px;
+    font-size: 30px;
     font-weight: 600;
     background: rgba(255, 255, 255, 0.06);
     border: 1px solid rgba(255, 255, 255, 0.18);
