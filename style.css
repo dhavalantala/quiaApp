@@ -206,7 +206,7 @@ body::before {
     color: #fff;
     cursor: pointer;
     letter-spacing: 0.04em;
-    transition: background 0.2s, transform 0.15s;
+    transition: 0.2s, transform 0.15s;
 }
 
 .startBtn:hover {
